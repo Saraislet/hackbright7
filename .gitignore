@@ -1,5 +1,6 @@
 # Ignore these files
 secrets.sh
+tokens.py
 *.pyc
 *.txt
 *.png
